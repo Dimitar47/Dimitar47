@@ -7,7 +7,7 @@
   - :bulb: [Gmail](mitiokrikad@gmail.com)
   - :office: [LinkedIn](https://www.linkedin.com/in/dimitar-nikolov-646a99200/)
  
-[![Dimitar's github stats](https://github-readme-stats.vercel.app/api?username=dimitar47&count_private=true&show_icons=true&theme=radical&hide_rank=false)]
+![Dimitar's github stats(https://github-readme-stats.vercel.app/api?username=dimitar47&count_private=true&show_icons=true&theme=radical&hide_rank=false)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitar47)]
