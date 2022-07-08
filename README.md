@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Dimitar :smile:
 
 <!--
 **Dimitar47/Dimitar47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
