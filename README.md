@@ -3,9 +3,9 @@
 - 🌱 I'm passionate about **learning and growing** every day in the IT industry. 🌱
 - :100: I'm currently taking some SoftUni courses and **learning every day**. :100:
 - :computer: I'm specializing in the **C# programming language**. :computer:
-- :mailbox: How to reach me:
-      <ul type = "circle"><li>G-mail: mitiokrikad@gmail.com</li></ul>
-      <ul type = "circle">
+- 📫 How to find me: 
+  - :bulb: [Gmail](mitiokrikad@gmail.com)
+  - :office: [LinkedIn](https://www.linkedin.com/in/dimitar-nikolov-646a99200/)
 <!--
 **Dimitar47/Dimitar47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
