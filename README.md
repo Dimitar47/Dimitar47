@@ -6,11 +6,16 @@
 - 📫 How to find me: 
   - :bulb: [Gmail](mitiokrikad@gmail.com)
   - :office: [LinkedIn](https://www.linkedin.com/in/dimitar-nikolov-646a99200/)
- 
-![Dimitar's github stats(https://github-readme-stats.vercel.app/api?username=dimitar47&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+
+<br><br>
+![Dimitar's github stats](https://github-readme-stats.vercel.app/api?username=dimitar47&count_private=true&show_icons=true&theme=radical&hide_rank=false)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitar47)]
+
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitar47)
 <!--
 **Dimitar47/Dimitar47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
