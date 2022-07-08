@@ -7,8 +7,10 @@
   - :bulb: [Gmail](mitiokrikad@gmail.com)
   - :office: [LinkedIn](https://www.linkedin.com/in/dimitar-nikolov-646a99200/)
  
-[![Dimitar's github stats](https://github-readme-stats.vercel.app/api?username=dimitar47&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitar47)](https://github.com/dimitar47/github-readme-stats)
+[![Dimitar's github stats](https://github-readme-stats.vercel.app/api?username=dimitar47&count_private=true&show_icons=true&theme=radical&hide_rank=false)]
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitar47)]
 <!--
 **Dimitar47/Dimitar47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
