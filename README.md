@@ -6,6 +6,7 @@
 - 📫 How to find me: 
   - :bulb: [Gmail](mitiokrikad@gmail.com)
   - :office: [LinkedIn](https://www.linkedin.com/in/dimitar-nikolov-646a99200/)
+  - :speaker: [Twitter](https://twitter.com/DGodski)
 
 <br><br>
 ![Dimitar's github stats](https://github-readme-stats.vercel.app/api?username=dimitar47&count_private=true&show_icons=true&theme=radical&hide_rank=false)
