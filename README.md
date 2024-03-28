@@ -1,4 +1,4 @@
-###<h1> Hi there. I'm Dimitar</h1> :wave:
+### Hi there. I'm Dimitar :wave:
 - :zap: I love **programming**, training and reading books. :zap:
 - 🌱 I'm passionate about **learning and growing** every day in the IT industry. 🌱
 - :100: I'm currently taking some SoftUni courses and **learning every day**. :100:
