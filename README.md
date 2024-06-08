@@ -10,13 +10,13 @@
 </p>
 
 <p>
- 🔭 I’m currently working on a **Softuni Web Project** 🔭
+ 🔭 I’m currently working on a <strong>Softuni Web Project</strong> 🔭
 </p>
 <p>
- 🌱 I’m currently learning **C# Entity Framework Core in Softuni** 🌱
+ 🌱 I’m currently learning <strong>C# Entity Framework Core in Softuni</strong> 🌱
 </p>
 <p>
- ⚡ Ask me about **anything related to coding** ⚡
+ ⚡ Ask me about <strong>anything related to coding</strong> ⚡
 </p>
 <h3 align="left"> 📫 Connect with me:</h3>
 <p align="left">
