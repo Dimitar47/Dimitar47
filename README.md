@@ -23,6 +23,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimitar nikolov" height="30" width="40" />
   </a>
   
+  <a href="https://fb.com/mitko nikolov" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mitko nikolov" height="30" width="40" />
+  </a>
+  
   <a href="https://instagram.com/nikolovv01" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikolovv01" height="30" width="40" />
   </a>
