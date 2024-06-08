@@ -5,15 +5,19 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dimitar47&label=Profile%20views&color=0e75b6&style=flat" alt="dimitar47" /> </p>
+<p style="text-align: center;"> 
+ <img  src="https://komarev.com/ghpvc/?username=dimitar47&label=Profile%20views&color=0e75b6&style=flat" alt="dimitar47" height="30"/>
+</p>
 
+<p>
  🔭 I’m currently working on a **Softuni Web Project** 🔭
-
+</p>
+<p>
  🌱 I’m currently learning **C# Entity Framework Core in Softuni** 🌱
-
+</p>
+<p>
  ⚡ Ask me about **anything related to coding** ⚡
-
-
+</p>
 <h3 align="left"> 📫 Connect with me:</h3>
 <p align="left">
   
