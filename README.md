@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimitar47&label=Profile%20views&color=0e75b6&style=flat" alt="dimitar47" /> </p>
 
-- 🔭 I’m currently working on **Softuni Web Project**
+- 🔭 I’m currently working on a **Softuni Web Project**
 
-- 🌱 I’m currently learning **C# Entity Framework Core**
+- 🌱 I’m currently learning **C# Entity Framework Core** in **Softuni**
 
-- 💬 Ask me about **Migrations, MVC**
+- 💬 Ask me about **anything related to coding**
 
 - 📫 How to reach me **https://www.linkedin.com/in/dimitar-nikolov-646a99200/**
 
