@@ -1,8 +1,9 @@
 # Hi there. I'm Dimitar :wave:
-### :zap: I love **programming**, training and reading books. :zap:
+### :zap: I love **programming**, working out and reading books. :zap:
 ### 🌱 I'm passionate about **learning and growing** every day in the IT industry. 🌱
 ### :100: I'm currently taking some SoftUni courses and **learning every day**. :100:
 ### :computer: I'm specializing in the **C# programming language**. :computer:
+### 🤔 And last but not least, I hold a Bachelor of Science in Information Systems from the **American University in Bulgaria**. 🤔
 ### 📫 How to find me: 
   - :bulb: [Gmail](mitiokrikad@gmail.com)
   - :office: [LinkedIn](https://www.linkedin.com/in/dimitar-nikolov-646a99200/)
