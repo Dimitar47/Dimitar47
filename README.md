@@ -76,13 +76,15 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimitar47&show_icons=true&locale=en&layout=compact" alt="dimitar47" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimitar47&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="dimitar47" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dimitar47&show_icons=true&locale=en" alt="dimitar47" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dimitar47&show_icons=true&locale=en&bg_color=000000" alt="dimitar47" />
 </p>
 
+
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dimitar47&" alt="dimitar47" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dimitar47&theme=dark&background=000000" alt="dimitar47" />
 </p>
+
