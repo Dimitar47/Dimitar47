@@ -13,13 +13,11 @@
 
 - 💬 Ask me about **anything related to coding**
 
-- 📫 How to reach me **https://www.linkedin.com/in/dimitar-nikolov-646a99200/**
-
 - ⚡ Fun fact **I am Funny**
 
-<h3 align="left">Connect with me:</h3>
+- 📫 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dimitar nikolov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimitar nikolov" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dimitar-nikolov-646a99200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimitar nikolov" height="30" width="40" /></a>
 <a href="https://instagram.com/nikolovv01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikolovv01" height="30" width="40" /></a>
 </p>
 
