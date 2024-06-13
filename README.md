@@ -92,15 +92,11 @@
 
 ### My Certificates:
 
-
 #### [C# Advanced - May 2023 - Certificate](https://github.com/Dimitar47/SoftUni-Courses/blob/main/Courses%20Certificates/C%23%20Advanced%20-%20May%202023%20-%20Certificate%20(2).pdf)
-
-
+<img src="https://github.com/Dimitar47/SoftUni-Courses/raw/main/Courses%20Certificates/C%23%20Advanced%20-%20May%202023%20-%20Certificate%20(2).png" alt="C# Advanced Certificate" width="400">
 
 #### [C# OOP - June 2023 - Certificate](https://github.com/Dimitar47/SoftUni-Courses/blob/main/Courses%20Certificates/C%23%20OOP%20-%20June%202023%20-%20Certificate%20(2).pdf)
-
-
+<img src="https://github.com/Dimitar47/SoftUni-Courses/raw/main/Courses%20Certificates/C%23%20OOP%20-%20June%202023%20-%20Certificate%20(2).png" alt="C# OOP Certificate" width="400">
 
 #### [Programming Fundamentals with C# - May 2022 - Certificate](https://github.com/Dimitar47/SoftUni-Courses/blob/main/Courses%20Certificates/Programming%20Fundamentals%20with%20C%23%20-%20May%202022%20-%20Certificate%20(4).pdf)
-
-
+<img src="https://github.com/Dimitar47/SoftUni-Courses/raw/main/Courses%20Certificates/Programming%20Fundamentals%20with%20C%23%20-%20May%202022%20-%20Certificate%20(4).png" alt="Programming Fundamentals Certificate" width="400">
