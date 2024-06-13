@@ -90,3 +90,14 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dimitar47&theme=dark&background=000000" alt="dimitar47" />
 </p>
 
+### My Certificates
+
+#### [C# Advanced - May 2023 - Certificate](https://github.com/Dimitar47/SoftUni-Courses/blob/main/Courses%20Certificates/C%23%20Advanced%20-%20May%202023%20-%20Certificate%20(2).pdf)
+
+
+#### [C# OOP - June 2023 - Certificate](https://github.com/Dimitar47/SoftUni-Courses/blob/main/Courses%20Certificates/C%23%20OOP%20-%20June%202023%20-%20Certificate%20(2).pdf)
+
+
+#### [Programming Fundamentals with C# - May 2022 - Certificate](https://github.com/Dimitar47/SoftUni-Courses/blob/main/Courses%20Certificates/Programming%20Fundamentals%20with%20C%23%20-%20May%202022%20-%20Certificate%20(4).pdf)
+
+
