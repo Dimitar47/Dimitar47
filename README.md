@@ -91,6 +91,13 @@
 </p>
 
 ### My Certificates:
+
+#### [ASP.NET Fundamentals - September 2024 - Certificate](https://github.com/Dimitar47/SoftUni-CSharp-Courses/blob/main/Courses%20Certificates/ASP.NET%20Fundamentals%20-%20September%202024%20-%20Certificate.pdf)
+<img src="https://github.com/Dimitar47/SoftUni-CSharp-Courses/blob/main/Courses%20Certificates/ASP.NET%20Fundamentals%20-%20September%202024%20-%20Certificate.png" alt="ASP.NET Fundamentals Certificate" width="400">
+
+#### [Entity Framework Core - June 2024 - Certificate](https://github.com/Dimitar47/SoftUni-CSharp-Courses/blob/main/Courses%20Certificates/Entity%20Framework%20Core%20-%20June%202024%20-%20Certificate.pdf)
+<img src="https://github.com/Dimitar47/SoftUni-CSharp-Courses/blob/main/Courses%20Certificates/Entity%20Framework%20Core%20-%20June%202024%20-%20Certificate.png" alt="Entity Framework Core Certificate" width="400">
+
 #### [MS SQL - May 2024 - Certificate](https://github.com/Dimitar47/SoftUni-CSharp-Courses/blob/main/Courses%20Certificates/MS%20SQL%20-%20May%202024%20-%20Certificate.pdf)
 <img src="https://github.com/Dimitar47/SoftUni-CSharp-Courses/blob/main/Courses%20Certificates/MS%20SQL%20-%20May%202024%20-%20Certificate.png" alt="MS SQL Server Certificate" width="400">
 
